@@ -75,7 +75,7 @@ namespace ProductivityFeatures
 
         // Use a conditional expression to simplify your code.
         // Click inside the if statement and type (Ctrl + .)
-        // to refactor the if else into a conditional expression.
+        // to refactor the if else into a conditional expression. Made changes here too
         public bool ConditionalExpression(int two)
         {
             if (two % 0 == 0)
